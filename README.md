@@ -45,7 +45,7 @@ I bridge the gap between heavy industrial manufacturing and modern software engi
 ### 📫 Let's Connect!
 Looking to automate your business workflows or build a custom Python system? Feel free to reach out.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#) [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://pl.linkedin.com/in/bohdan-dufeniuk-4803a0203) [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~015d56dba7209ef52a)
 <!--
 **dufeniuk/dufeniuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
